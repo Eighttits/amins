@@ -53,3 +53,9 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
+//asfsafaf
+
+function clickProject(project){
+    document.querySelector('#'+project+'').click();
+}
+
